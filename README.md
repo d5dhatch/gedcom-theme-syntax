@@ -1,6 +1,6 @@
 # gedcom-theme-syntax theme
 
-Makes GEDCOM files look great! Requires https://atom.io/packages/language-gedcom.
+Makes GEDCOM files look great (or at least better)! Requires https://atom.io/packages/language-gedcom.
 
 Written by David Hatch
 
