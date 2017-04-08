@@ -1,0 +1,15 @@
+{
+  "name": "gedcom-theme-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Trying to make GEDCOM files look good. Works in conjunction with gedcom-grammar.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/d5dhatch/gedcom-tools",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
