@@ -5,7 +5,11 @@
   "description": "Trying to make GEDCOM files look good. Works in conjunction with gedcom-grammar.",
   "keywords": [
     "syntax",
-    "theme"
+    "theme",
+    "genealogy",
+    "gedcom",
+    "ged",
+    "family tree"
   ],
   "repository": "https://github.com/d5dhatch/gedcom-theme-syntax",
   "license": "MIT",
