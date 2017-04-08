@@ -1,7 +1,7 @@
 {
   "name": "gedcom-theme-syntax",
   "theme": "syntax",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Trying to make GEDCOM files look good. Works in conjunction with gedcom-grammar.",
   "keywords": [
     "syntax",
