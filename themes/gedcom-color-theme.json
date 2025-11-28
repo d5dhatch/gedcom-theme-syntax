@@ -1,0 +1,39 @@
+{
+  "name": "GEDCOM Theme",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#0f0f0f",
+    "editor.foreground": "#d0d0d0",
+    "editor.lineHighlightBackground": "#1a1a1a",
+    "editorCursor.foreground": "#c0c0c0",
+    "editor.selectionBackground": "#2a3b5e77",
+    "sideBar.background": "#111111",
+    "activityBar.background": "#101010",
+    "statusBar.background": "#101010"
+  },
+  "tokenColors": [
+    { "scope": ["keyword", "storage.type"], "settings": { "foreground": "#c678dd" } },
+    { "scope": ["string"], "settings": { "foreground": "#98c379" } },
+    { "scope": ["constant.numeric"], "settings": { "foreground": "#d19a66" } },
+    { "scope": ["comment"], "settings": { "foreground": "#5c6370", "fontStyle": "italic" } },
+    { "scope": ["entity.name.tag", "support.type"], "settings": { "foreground": "#61afef" } },
+    { "scope": ["variable", "meta.definition.variable"], "settings": { "foreground": "#e06c75" } },
+    { "scope": ["ged.level.level0.gedcom"], "settings": { "foreground": "#E06C75" } },
+    { "scope": ["ged.level.level1.gedcom"], "settings": { "foreground": "#E06C75" } },
+    { "scope": ["ged.level.level2.gedcom"], "settings": { "foreground": "#E06C75" } },
+    { "scope": ["ged.level.level3.gedcom"], "settings": { "foreground": "#E06C75" } },
+    { "scope": ["ged.level.level4.gedcom"], "settings": { "foreground": "#E06C75" } },
+    { "scope": ["ged.level.level5.gedcom"], "settings": { "foreground": "#E06C75" } },
+    { "scope": ["ged.xref.gedcom"], "settings": { "foreground": "#E06C75" } },
+    { "scope": ["ged.tag.name.gedcom"], "settings": { "foreground": "#00D7FF" } },
+    { "scope": ["ged.tag.source.gedcom"], "settings": { "foreground": "#00D7FF" } },
+    { "scope": ["ged.tag.page.gedcom"], "settings": { "foreground": "#00D7FF" } },
+    { "scope": ["ged.tag.data.gedcom"], "settings": { "foreground": "#00D7FF" } },
+    { "scope": ["ged.tag.text.gedcom"], "settings": { "foreground": "#00D7FF" } },
+    { "scope": ["ged.tag.conc.gedcom"], "settings": { "foreground": "#FF9E64" } },
+    { "scope": ["ged.tag.gedcom"], "settings": { "foreground": "#00D7FF" } },
+    { "scope": ["ged.value.gedcom"], "settings": { "foreground": "#FFD700" } },
+    { "scope": ["ged.value.text.gedcom"], "settings": { "foreground": "#FFD700" } },
+    { "scope": ["ged.value.source.gedcom"], "settings": { "foreground": "#FF6B9D" } }
+  ]
+}

@@ -1,8 +1,9 @@
 {
   "name": "gedcom-theme-syntax",
-  "theme": "syntax",
-  "version": "1.0.3",
-  "description": "Trying to make GEDCOM files look good. Works in conjunction with gedcom-grammar.",
+  "displayName": "GEDCOM Theme",
+  "publisher": "local",
+  "version": "1.11.0",
+  "description": "GEDCOM color theme for VS Code/Cursor.",
   "keywords": [
     "syntax",
     "theme",
@@ -14,6 +15,16 @@
   "repository": "https://github.com/d5dhatch/gedcom-theme-syntax",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "vscode": "^1.80.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "GEDCOM Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gedcom-color-theme.json"
+      }
+    ]
   }
 }
